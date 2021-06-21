@@ -1,5 +1,5 @@
 # Responsive Web Design Projects - Build a Personal Portfolio Webpage
-> freeCodeCamp - Certificação Treinamento Web Design Responsivo | Projeto 04 - Construa uma página de portfólio pessoal
+> freeCodeCamp - Certificação Treinamento Web Design Responsivo | Projeto 05 - Construa uma página de portfólio pessoal
 
 ## Objective
 Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNBOYG.
